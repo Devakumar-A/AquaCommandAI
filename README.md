@@ -158,7 +158,7 @@ The complete project package, including:
 - Additional Resources
 - Project Dependencies
 
-is maintained separately on Google Drive.
+is maintained separately on Google Drive(https://drive.google.com/file/d/1kq0IgMlBVZiUfQvu0vChW-4wddhMs9aa/view?usp=drive_link).
 
 If you require the complete project for academic, research, or development purposes, please send an access request to:
 
