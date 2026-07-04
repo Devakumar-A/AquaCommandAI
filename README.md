@@ -68,10 +68,7 @@ AquaCommandAI/
 │
 ├── frontend/
 ├── backend/
-├── datasets/
-├── models/
-├── database/
-├── docs/
+├── AquaCommand
 └── README.md
 ```
 
